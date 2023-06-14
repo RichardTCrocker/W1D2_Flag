@@ -3,14 +3,12 @@
     height: 250px;
     width: 450px;
 }
-
 .top-left{
     background-color: white;
     height: 100px;
     width: 100px;
     display: inline-block;
 }
-
 .top-right{
     background-color: white;
     width: 298px;
@@ -18,7 +16,6 @@
     display: inline-block;
     margin: 0 0 0 48px;
 }
-
 .bottom-left{
     background-color: white;
     display: inline-block;
@@ -26,7 +23,6 @@
     height: 100px;
     width: 100px;
 }
-
 .bottom-right{
     height: 100px;
     width: 298px;
@@ -34,27 +30,23 @@
     display: inline-block;
     margin: 0 0 0 48px;
 }
-
 .red-top-left{
     background-color: rgb(192, 0, 0);
     width: 75px;
     height: 80px;
 }
-
 .red-top-right{
     background-color: rgb(192, 0, 0);
     width: 273px;
     height: 80px;
     margin:  0 0 0 25px;
 }
-
 .red-bottom-left{
     background-color: rgb(192, 0, 0);
     width: 75px;
     height: 80px;
     margin: 20px 0 0 0;
 }
-
 .red-bottom-right{
     background-color: rgb(192, 0, 0);
     width: 273px;
